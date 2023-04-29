@@ -1,6 +1,6 @@
 """
                                                 PYTHON 3
-SIXTH EXAMPLE : Write a program that calculates and prints the value according to the given formula:
+EXAMPLE SIX: Write a program that calculates and prints the value according to the given formula:
 
 Q = Square root of [(2 _ C _ D)/H]
 
