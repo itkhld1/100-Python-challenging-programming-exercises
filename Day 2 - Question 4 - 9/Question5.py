@@ -13,6 +13,6 @@ class IOString():
     def print_string(self):
         print(self.s.upper())
 
-x = IOString()
-x.get_string()
-x.print_string()
+a = IOString()
+a.get_string()
+a.print_string()
