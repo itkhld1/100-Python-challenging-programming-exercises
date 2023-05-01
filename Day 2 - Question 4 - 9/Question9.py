@@ -6,6 +6,7 @@ Suppose the following input is supplied to the program:
 
 Hello world
 Practice makes perfect
+
 Then, the output should be:
 
 HELLO WORLD
